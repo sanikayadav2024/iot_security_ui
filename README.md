@@ -96,11 +96,9 @@ http://localhost:8501
 
 > 💡 Tip: Add screenshots here to make your project stand out on GitHub
 
-```
 
 <img width="1447" height="843" alt="image" src="https://github.com/user-attachments/assets/6b698dff-a48f-4736-ac36-e5ad136a3b4d" />
 
-```
 
 ---
 
